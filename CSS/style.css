@@ -31,8 +31,8 @@ body{
 	margin-left: 0;
 }
 #Home .content img{
-	width: 29.5vw;
-	height: auto;
+	width: auto;
+	height: 100%;
 	float: left;
 }
 #Home .content article{
