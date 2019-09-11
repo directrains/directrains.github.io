@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+centipede-semi.squarespace.com	TRUE	/	FALSE	1999999999	crumb	BdI9kuGNQUyrZGIwYThjMzQyN2U3MzJmZjcyNWJjNjI5NDJiMThj
+centipede-semi.com	TRUE	/	FALSE	1999999999	crumb	BfUwc+r0IUCKN2FkNzU5MDkzZTJlNDEzMzBkNTc4NWMxOTFmZjhi
+centipede-semi.com	TRUE	/	FALSE	1999999999	ss_cid	2b8ef1d6-5758-456c-a698-1240f2f972b2
+centipede-semi.com	TRUE	/	FALSE	1999999999	ss_cvisit	1567877238182
+centipede-semi.com	TRUE	/	FALSE	1999999999	ss_cpvisit	1567877238182
+
