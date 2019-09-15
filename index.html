@@ -9,11 +9,15 @@
 				display: none;
 			}
 			#Home #phone{
-				visability: visable;
 				font-size: 20vw;
 				text-align: center;
 			}
 			
+		}
+		@media not (-moz-touch-enabled: 1), (pointer:coarse) {
+			#Home #phone{
+				display: none;
+			}
 		}
 		</style>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,6 +43,6 @@
 			</article>
 		</div>
 		</div>
-		<p id="phone" style="visability: hidden;">This device is not supported yet, please acsses from a PC.</p>
+		<p id="phone">This device is not supported yet, please acsses from a PC.</p>
 	</body>
 </html>
