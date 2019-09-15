@@ -22,10 +22,16 @@ ul {
 	z-index: 10;
 	text-align: center;
 }
-
+#header .nav li{
+	margin-top: 1vh;
+}
+#header .nav #End_index{
+	margin-bottom: 1vh;
+}
 
 #logoli {
 	width: 100vw;
+	z-index: 1;
 	background-color: white;
 }
 #Logo {
@@ -50,10 +56,10 @@ ul {
 
 
 .index {
-	width: 20vw;
-	height: 5vh;
+	width: 50vw;
+	height: 6.5vh;
 	display: block;
-	font-size: 1.5vw;
+	font-size: 3vw;
 	font-family: Calibri;
 	text-decoration: none;
 	padding: 2vw;
