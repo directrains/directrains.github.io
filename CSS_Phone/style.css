@@ -1,0 +1,141 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	background-color: #FFF;
+	margin: 0;
+	padding: 0;
+}
+#header {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 4.3vw;
+	z-index: 1;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.content article{
+	font-family: Calibri;
+}
+
+
+#Home .content{
+}
+#Home .content aside{
+	width: 45vw;
+	margin-left: 0;
+}
+#Home .content img{
+	width: auto;
+	height: 100vh;
+	float: left;
+}
+#Home .content article{
+	display: inline-block;
+	width: 50%;
+	margin-left: 5vw;
+	margin-right: 0;
+	font-size: 1.3vw;
+	margin-top: 30vh;
+	float: left;
+	text-align: justify;
+}
+#Home_title{
+	font-size: 3vw;
+}
+
+#About_us .content ul{
+	display: block;
+	margin-top: 4.3vw;
+	margin-bottom: 0;
+	list-style-type: none;
+	padding: 0;
+	height: 80vh 
+}
+#About_us .content li{
+	width: 100vw;
+	padding: 1.68vw;
+	border-bottom: 0.1vw dashed black;
+}
+#About_us .content li img{
+	width: 27vh;
+	height: auto;
+	margin-left: 3.5vw;
+}
+#About_us .content li p{
+	position: absolute;
+	margin-top: 4vh;
+	padding: 3vw;
+	padding-left: 10vw;
+	display: inline-block;
+	font-size: 1.5vw;
+}
+#About_us .content span{
+	display: inline-block;
+	padding: 1vw 0 1vw 0;
+	font-size: 2vw;
+	font-weight: bold;
+}
+
+#Project .content img{
+	width: auto;
+	height: 100vh;
+	float: left;
+}
+#Project .content article{
+	display: inline-block;
+	margin-top: 30vh;
+	float: left;
+	width: 50%;
+	margin-left: 5vw;
+	
+}
+#Project .content article p{
+	font-size: 1.3vw;
+	text-align: justify;
+}
+#Project .content span{
+	font-weight: bold;
+	font-size: 1.5vw;
+}
+
+#Contact_Us .content{
+	
+}
+#Contact_Us .content aside{
+}
+#Contact_Us .content img{
+	height: 100vh;
+	width: auto;
+	float: left;
+}
+#Contact_Us .content article{
+	display: block;
+	width: 44vw;
+	height: 50vh;
+	font-size: 1.2vw;
+	margin-left: 5vw;
+	margin-top: 25vh;
+	float: left;
+	width: 40vw;
+}
+#Contact_Us .content article strong{
+	font-size: 1.25vw;
+	letter-spacing: 0.03vw;
+	font-family: Candara;
+}
+#Contact_Us_Title{
+	font-size: 1.8vw;
+	letter-spacing: 0.03vw;
+	font-family: Calibri;
+	font-weight: bold;
+}
+
+#About_us .content .No_Border{
+	border-bottom-style: none;
+}
