@@ -10,10 +10,10 @@ body{
 	display: block;
 	margin: 0;
 	padding: 0;
-	width: 100%;
+	width: 100vw;
 	height: 4.3vw;
 	z-index: 1;
-	overflow: ;
+	overflow: hidden;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -31,8 +31,8 @@ body{
 	margin-left: 0;
 }
 #Home .content img{
-	width: 30vw;
-	height: auto;
+	width: auto;
+	height: 100vh;
 	float: left;
 }
 #Home .content article{
@@ -41,7 +41,7 @@ body{
 	margin-left: 5vw;
 	margin-right: 0;
 	font-size: 1.3vw;
-	margin-top: 14.5vw;
+	margin-top: 30vh;
 	float: left;
 	text-align: justify;
 }
@@ -59,6 +59,7 @@ body{
 #About_us .content li{
 	width: 100%;
 	padding: 1.68vw;
+	border-bottom: 0.1vw dashed black;
 }
 #About_us .content li img{
 	width: 13vw;
@@ -67,7 +68,7 @@ body{
 }
 #About_us .content li p{
 	position: absolute;
-	margin-top: 2vw;
+	margin-top: 4vh;
 	padding: 3vw;
 	padding-left: 10vw;
 	display: inline-block;
@@ -81,18 +82,16 @@ body{
 }
 
 #Project .content img{
-	display: block;
-	width: 30vw;
-	margin-top: 0.2vw;
-	height: auto;
+	width: auto;
+	height: 100vh;
 	float: left;
 }
 #Project .content article{
 	display: inline-block;
-	margin-top: 17vw;
+	margin-top: 30vh;
 	float: left;
 	width: 50%;
-	margin-left: 2vw;
+	margin-left: 5vw;
 	
 }
 #Project .content article p{
@@ -110,20 +109,18 @@ body{
 #Contact_Us .content aside{
 }
 #Contact_Us .content img{
-	display: block;
-	height: 60vw;
+	height: 100vh;
 	width: auto;
-	margin-left: -3vw;
-	margin-top: -12vw;
 	float: left;
 }
 #Contact_Us .content article{
 	display: block;
+	width: 44vw;
+	height: 50vh;
 	font-size: 1.2vw;
-	margin-left: 8vw;
-	margin-top: 11vw;
+	margin-left: 5vw;
+	margin-top: 25vh;
 	float: left;
-	margin-top: 11vw;
 	width: 40vw;
 }
 #Contact_Us .content article strong{
@@ -138,3 +135,6 @@ body{
 	font-weight: bold;
 }
 
+#About_us .content .No_Border{
+	border-bottom-style: none;
+}
