@@ -57,12 +57,12 @@ body{
 	padding: 0;
 }
 #About_us .content li{
-	width: 100%;
+	width: 100vw;
 	padding: 1.68vw;
 	border-bottom: 0.1vw dashed black;
 }
 #About_us .content li img{
-	width: 13vw;
+	width: 27vh;
 	height: auto;
 	margin-left: 3.5vw;
 }
