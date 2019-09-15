@@ -5,12 +5,14 @@ body{
 	background-color: #FAFAFF;
 	margin: 0;
 	padding: 0;
+	height: 100vh;
 }
 
 
 ul {
 	list-style-type: none;
 	padding: 0;
+	height: 100vh;
 }
 #header li {
 	float: none;
@@ -18,12 +20,13 @@ ul {
 #header .nav{
 	background-color: #35259b;
 	position: sticky;
-	width: 100%;
+	width: 100vw;
+	height: 50vh;
 	z-index: 10;
 	text-align: center;
 }
 #header .nav li{
-	margin-top: 1vh;
+	margin-top:;
 }
 #header .nav #End_index{
 	margin-bottom: 1vh;
@@ -37,7 +40,7 @@ ul {
 #Logo {
 	display: block;
 	width: auto;
-	height: 20vh;
+	height: 30vh;
 	background-color: white;
 	margin-right: auto;
 	margin-left: auto;
@@ -46,7 +49,7 @@ ul {
 #title{
 	display: block;
 	font-family: Calibri;
-	font-size: 3vw;
+	font-size: 4vw;
 	color: #f0f0fa;
 	letter-spacing: 0.3vw;
 	text-decoration: none;
@@ -56,10 +59,11 @@ ul {
 
 
 .index {
+	margin-top: 3vh;
 	width: 50vw;
-	height: 6.5vh;
+	height: 10vh;
 	display: block;
-	font-size: 3vw;
+	font-size: 2vw;
 	font-family: Calibri;
 	text-decoration: none;
 	padding: 2vw;
