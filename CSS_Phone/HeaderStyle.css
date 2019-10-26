@@ -24,9 +24,9 @@ ul {
 	height: 50vh;
 	z-index: 10;
 	text-align: center;
+	float: right
 }
 #header .nav li{
-	margin-top:;
 }
 #header .nav #End_index{
 	margin-bottom: 1vh;
@@ -47,9 +47,9 @@ ul {
 	margin-top:0;
 }
 #title{
-	display: block;
+	display: none;
 	font-family: Calibri;
-	font-size: 4vw;
+	font-size: 7vw;
 	color: #f0f0fa;
 	letter-spacing: 0.3vw;
 	text-decoration: none;
@@ -59,21 +59,18 @@ ul {
 
 
 .index {
-	margin-top: 3vh;
+	margin-top: 2vh;
 	width: 50vw;
-	height: 10vh;
 	display: block;
-	font-size: 2vw;
+	font-size: 5vw;
 	font-family: Calibri;
 	text-decoration: none;
-	padding: 2vw;
+	padding: 1.5vw;
 	letter-spacing: 0.08vw;
 	color: #fff;
 	margin-right: auto;
 	margin-left: auto;
-}
-.index:hover{
 	background-color: #D6F4FA;
 	color: #000;
-	opacity: 0.6;
+	opacity: 0.5;
 }
