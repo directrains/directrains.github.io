@@ -136,6 +136,6 @@ body{
 	font-weight: bold;
 }
 
-#About_us .content{
+#About_us .content .no_border{
 	border-bottom-style: none;
 }
