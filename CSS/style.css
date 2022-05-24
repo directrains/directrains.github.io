@@ -49,7 +49,7 @@ body{
 	font-size: 3vw;
 }
 
-#About_us .content ul{
+.content ul{
 	display: block;
 	margin-top: 4.3vw;
 	margin-bottom: 0;
