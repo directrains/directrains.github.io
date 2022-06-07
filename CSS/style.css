@@ -83,8 +83,8 @@ body{
 }
 
 #Project .content img{
-	width: auto;
-	height: 120vh;
+	width: 40vw;
+	height: 140vh;
 	float: left;
 }
 #Project .content article{
