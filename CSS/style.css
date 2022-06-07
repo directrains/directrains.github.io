@@ -84,12 +84,12 @@ body{
 
 #Project .content img{
 	width: auto;
-	height: 100vh;
+	height: 120vh;
 	float: left;
 }
 #Project .content article{
 	display: inline-block;
-	margin-top: 30vh;
+	margin-top: 10vh;
 	float: left;
 	width: 50%;
 	margin-left: 5vw;
