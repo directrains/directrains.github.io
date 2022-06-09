@@ -18,6 +18,9 @@ body{
 	top: 0;
 	left: 0;
 }
+#bold_text{
+	fint-size: 3vw;
+}
 
 .content article{
 	font-family: Calibri;
