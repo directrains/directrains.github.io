@@ -147,3 +147,9 @@ body{
 #Papers article{
 	margin-top: 8vh;
 }
+#Papers ul{
+	margin-top: 0;	
+}
+#Papers span{
+	font-size: 6vh;
+}
