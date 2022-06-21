@@ -149,6 +149,7 @@ body{
 }
 #Papers ul{
 	margin-top: 0;	
+	height: auto;
 }
 #Papers span{
 	font-size: 6vh;
