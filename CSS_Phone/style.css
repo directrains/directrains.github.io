@@ -156,3 +156,6 @@ body{
 #Papers article{
 	margin-top: 40vh;
 }
+#Papers span{
+	font-size: 6vw;
+}
