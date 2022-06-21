@@ -155,6 +155,7 @@ body{
 
 #Papers article{
 	margin-top: 40vh;
+	list-style-type: circle;
 }
 #Papers span{
 	font-size: 6vw;
